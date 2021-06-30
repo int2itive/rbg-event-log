@@ -1,0 +1,388 @@
+﻿[
+ {
+   "month": "July",
+   "special_status": true,
+   "event_date": "19/07/2018",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "Nyinka's Daughter"
+   },
+   "guests": ["Ma Puntsimenia"],
+   "notes": ""
+ },
+ {
+   "month": "August",
+   "special_status": false,
+   "event_date": "30/08/2018",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Legend of Duro"
+   },
+   "guests": ["Ma Puntsimenia","Rare Diamond","Soronity Turner"],
+   "notes": ""
+ },
+ {
+   "month": "September",
+   "special_status": false,
+   "event_date": "27/09/2018",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Legend of the Golden Seed"
+   },
+   "guests": ["One Tawny Stranger","Oma'-Ra","Ma Puntsimenia","Tafari"],
+   "notes": ""
+ },
+ {
+   "month": "October",
+   "special_status": true,
+   "event_date": "25/10/2018",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Trials of Mai the Moor"
+   },
+   "guests": ["One Tawny Stranger","Edward, the Poet","Ma Puntsimenia"],
+   "notes": "Black History month"
+ },
+ {
+   "month": "November",
+   "special_status": false,
+   "event_date": "28/11/2018",
+   "lead_performer": "Usifu Jalloh",
+   "feature_story": {
+      "theme": "To Know Thyself is Not An Insult - It's Good Advice"
+   },
+   "guests": ["Sola Story","Diana Phillips","One Tawny Stranger","Edward, the Poet","Tafari","Ma Puntsimenia"],
+   "notes": ""
+ },
+ {
+   "month": "December",
+   "special_status": true,
+   "event_date": "26/12/2018",
+   "lead_performer": "Victor Richards",
+   "feature_story": {
+      "theme": "Streets Paved with Gold"
+   },
+   "guests": ["Ma Puntsimenia"],
+   "notes": "Kwanzaa"
+ },
+ {
+   "month": "January",
+   "special_status": true,
+   "event_date": "31/01/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "Morenike: The Divine Child and Love's Clear Sight"
+   },
+   "guests": ["Edward, the Poet","Princess Latifah","Ma Puntsimenia"],
+   "notes": ""
+ },
+ {
+   "month": "February",
+   "special_status": true,
+   "event_date": "28/02/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Water Gazer"
+   },
+   "guests": ["Ma Puntsimenia"],
+   "notes": ""
+ },
+ {
+   "month": "March",
+   "special_status": true,
+   "event_date": "28/03/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Circle of Ubuntu"
+   },
+   "guests": ["Ngoma Bishop","Edward, the Poet","Ngozi Obanye","Ma Puntsimenia"],
+   "notes": "Elements of Re-Creation"
+ },
+ {
+   "month": "April",
+   "special_status": true,
+   "event_date": "25/04/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "Red Buffalo Woman: Yoruba Tale"
+   },
+   "guests": ["One Tawny Stranger","Olayinka"],
+   "notes": ""
+ },
+ {
+   "month": "May",
+   "special_status": true,
+   "event_date": "25/05/2019",
+   "lead_performer": "Griot Chinyere",
+   "feature_story": {
+      "theme": "12 Windows of Abundance"
+   },
+   "guests": ["Beulah Williams","Tafari"],
+   "notes": "Africa Liberation Day Special"
+ },
+ {
+   "month": "June",
+   "special_status": false,
+   "event_date": "27/06/2019",
+   "lead_performer": "Alim Kamara",
+   "feature_story": {
+      "theme": "Inspiring Greatness | Preserving Tradition"
+   },
+   "guests": ["Moina McInnis","Beulah Williams","Edward, the Poet"],
+   "notes": ""
+ },
+ {
+   "month": "July",
+   "special_status": true,
+   "event_date": "27/07/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "The Ancestors Will Always Find�.."
+   },
+   "guests": ["Diana Phillips","Edward, the Poet","Griot Chinyere","Princess Latifah","Princess Ziah","Princess Poet","Moina McInnis","Yemisi"],
+   "notes": "1-Year Anniversary Event"
+ },
+ {
+   "month": "August",
+   "special_status": false,
+   "event_date": "29/08/2019",
+   "lead_performer": "Sandra Agard",
+   "feature_story": {
+      "theme": "Telling Tales Now"
+   },
+   "guests": ["Sola Story","Princess Ziah","Lyrical Healer"],
+   "notes": ""
+ },
+ {
+   "month": "September",
+   "special_status": false,
+   "event_date": "26/09/2019",
+   "lead_performer": "Baden Prince",
+   "feature_story": {
+      "theme": "The Woman Who Tricked the Devil"
+   },
+   "guests": ["Sola Story","Jennifer Kamara","Lady Esi","Princess Ziah","Tafari","Crimey Queen"],
+   "notes": ""
+ },
+ {
+   "month": "October",
+   "special_status": true,
+   "event_date": "31/10/2019",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "Nyinka's Daughter"
+   },
+   "guests": ["Jah Messam","Princess Ziah","Princess Poet","Sandra A. Agard","Rare Diamond","Lyrical Healer"],
+   "notes": "Black History month"
+ },
+ {
+   "month": "November",
+   "special_status": false,
+   "event_date": "28/11/2019",
+   "lead_performer": "Diana Phillips",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Sola Story","Pitchou Busta Masta","Lady Esi"],
+   "notes": ""
+ },
+ {
+   "month": "December",
+   "special_status": true,
+   "event_date": "26/12/2019",
+   "lead_performer": "Griot Chinyere",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Princess Ziah","Beloved","Ishinga","Annette Watson"],
+   "notes": "Kwanzaa"
+ },
+ {
+   "month": "January",
+   "special_status": false,
+   "event_date": "30/01/2020",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Oma'-Ra","Crimey Queen","Ngoma Bishop"],
+   "notes": ""
+ },
+ {
+   "month": "February",
+   "special_status": false,
+   "event_date": "27/02/2020",
+   "lead_performer": "Baden Prince",
+   "feature_story": {
+      "theme": "The Man Who Tricked the Devil"
+   },
+   "guests": ["One Tawny Stranger","Lady Esi","Tamara Gabriel"],
+   "notes": "Afromance"
+ },
+ {
+   "month": "March",
+   "special_status": true,
+   "event_date": "",
+   "lead_performer": "Griot Chinyere",
+   "feature_story": {
+      "theme": "Int. Women's month"
+   },
+   "guests": ["Diana Phillips","Lady Esi","Suzie Dread","Annette 'Annz' Watson","Danielle Allen","Rare Diamond"],
+   "notes": "THIS EVENT WAS CANCELLED"
+ },
+ {
+   "month": "April",
+   "special_status": "",
+   "event_date": "",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": "",
+   "notes": ""
+ },
+ {
+   "month": "June",
+   "special_status": "",
+   "event_date": "27/06/2020",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": "",
+   "notes": ""
+ },
+ {
+   "month": "July",
+   "special_status": "",
+   "event_date": "24/07/2020",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Usifu Jalloh","Haylee Venus","Sandra Agard"],
+   "notes": "2nd Anniversary Special"
+ },
+ {
+   "month": "August",
+   "special_status": "",
+   "event_date": "21/08/2020",
+   "lead_performer": "Griot Chinyere",
+   "feature_story": {
+      "theme": "Queen Tellers and Sistas Poweress"
+   },
+   "guests": ["Haylee Venus","Sheba Montserrat","Sandra Agard","Rare Diamond"],
+   "notes": ""
+ },
+ {
+   "month": "September",
+   "special_status": "",
+   "event_date": "26/09/2020",
+   "lead_performer": "Akuba Grace Quansah",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Sola Story","Sheda of Holda Poetry","Sahr Abu","Jali Bakary Konteh"],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "October",
+   "special_status": "",
+   "event_date": "30/10/2020",
+   "lead_performer": "Alim Kamara",
+   "feature_story": {
+      "theme": "The Living Spirit of Our Ancestors"
+   },
+   "guests": ["Ufiu Jalloh","Griot Chinyere","Sola Story","Haylee Venus","Sheba Montserrat", "Nat Nye","Sista J. Africa","Jali Bakary Konteh"],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "November",
+   "special_status": "",
+   "event_date": "27/11/2020",
+   "lead_performer": "Eli Anderson",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Sola Story","Baden Prince","Ka'bu Maat Kheru","Jali Bakary Konteh","Kabbo Hue Ferdinand"],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "December",
+   "special_status": true,
+   "event_date": "29/12/2020",
+   "lead_performer": "Sola Story",
+   "feature_story": {
+      "theme": "UJAMAA - Cooperative Economics"
+   },
+   "guests": ["Griot Chinyere","Ka'bu Maat Kheru","Tasfir Fofonah","Cezanna Poetess","Sista J Africa","Ta'Mara Mo'Nique Walker"],
+   "notes": "Kwanzaa"
+ },
+ {
+   "month": "January",
+   "special_status": true,
+   "event_date": "29/01/2021",
+   "lead_performer": "Kabbo Hue Ferdinand",
+   "feature_story": {
+      "theme": "Renewal"
+   },
+   "guests": ["Sola Story","Yasus Afari","Tasfir Fofonah","Sheda of Holda Poetry","Ngoma Bishop","S. Renee Mitchell"],
+   "notes": ""
+ },
+ {
+   "month": "February",
+   "special_status": "",
+   "event_date": "27/02/2021",
+   "lead_performer": "Usifu Jalloh",
+   "feature_story": {
+      "theme": "Black Love"
+   },
+   "guests": ["Sola Story","Queen Yamo","Sheba Montserrat","Sahr Abu","Baba-C."],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "March",
+   "special_status": "",
+   "event_date": "27/032021",
+   "lead_performer": "Griot Chinyere",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Sandra A. Agard","Lady Esi","Ta'Mara Mo'Nique Walker","Susie Dread","Sista J Africa"],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "April",
+   "special_status": "",
+   "event_date": "30/04/2021",
+   "lead_performer": "Adisa the Verbalizer",
+   "feature_story": {
+      "theme": ""
+   },
+   "guests": ["Sola Story","Jah Messam","Tuup","Kelcy Debbie","Nicole Moore","Kingston Equalite"],
+   "notes": "Wordz, Sound and Power"
+ },
+ {
+   "month": "May",
+   "special_status": true,
+   "event_date": "28/05/2021",
+   "lead_performer": "Baba-C",
+   "feature_story": {
+      "theme": "The Evolutionary Gate of Love"
+   },
+   "guests": ["Sola Story","Sheda of Holda Poetry","Cezanne Poetess","Kabbo Hue Ferdinand","Queen Yamoh","Kingston Equalite"],
+   "notes": "In Honour of Africa Liberation Day"
+ },
+ {
+   "month": "June",
+   "special_status": true,
+   "event_date": "25/06/2021",
+   "lead_performer": "Baba-C",
+   "feature_story": {
+      "theme": "The Evolutionary Gate of Love"
+   },
+   "guests": ["Sola Story","Sheda of Holda Poetry","Cezanne Poetess","Kabbo Hue Ferdinand","Queen Yamoh","Kingston Equalite"],
+   "notes": "In Honour of Africa Liberation Day"
+ }
+]
+
