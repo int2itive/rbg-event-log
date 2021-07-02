@@ -24,7 +24,8 @@ ready(() => {
   const [sidebar, main, input, info] = ['.sidebar', '.rbg-feature', '.input', '.rbg-lead-info']
     .map(node => document.querySelector(node));
 
-  const leaderList = [];
+  const leaderList = [], apps = [];
+  let ttlapps = 0;
 
   perfdata.forEach(function(evnt) {
     var d = evnt.event_date.substr(6);
@@ -117,8 +118,12 @@ ready(() => {
   const displayLeader = (leader) => {
 
     if(info.querySelector('h3')) {
-      //info.removeChild('h3');
-      console.log("Here!!!")
+      // clear the existing information
+      info.innerHTML = '';
+      // empty the appearances array
+      while (apps.length) { apps.pop(); };
+      // reset appearances numerical values
+      ttlapps = 0;
     }
 
     rbg_master.forEach(function (rbg) {
@@ -129,6 +134,24 @@ ready(() => {
         const h = document.createElement('h3');
         let headline = `Details for ${leader}`;
         h.textContent = headline;
+        // get details from perfdata records
+        perfdata.forEach(function(evnt) {
+            var d = evnt.event_date.substr(6);
+            const {lead_performer, guests} = evnt;
+
+            if (evnt.lead_performer == leader || evnt.guests.indexOf(leader) != -1) {
+              var g = evnt.guests.indexOf(leader);
+              ttlapps += 1;
+              apps.push(`${evnt.month} ${evnt.event_date.substring(0,2)}, ${evnt.event_date.substr(6)}`);
+
+              if (g == -1) {
+                apps[ttlapps-1] += "*";
+              }
+            }
+          }); // end of records section
+  console.log(leader + " Has Appeared " + ttlapps + " times.")
+  console.log(`First Appeared: ${apps[0].substring(0,apps[0].indexOf("*"))} - Most Recent: ${apps[ttlapps-1]}`)
+  console.log(apps);
 
         //const app_value = showApps(leader);
         //document.querySelector('.rbg-lead-info').appendChild(h);

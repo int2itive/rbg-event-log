@@ -146,7 +146,7 @@
    "month": "August",
    "special_status": false,
    "event_date": "29/08/2019",
-   "lead_performer": "Sandra Agard",
+   "lead_performer": "Sandra A. Agard",
    "feature_story": {
       "theme": "Telling Tales Now"
    },
@@ -238,7 +238,7 @@
    "feature_story": {
       "theme": ""
    },
-   "guests": ["Usifu Jalloh","Haylee Venus","Sandra Agard"],
+   "guests": ["Usifu Jalloh","Haylee Venus","Sandra A. Agard"],
    "notes": "2nd Anniversary Special"
  },
  {
@@ -249,7 +249,7 @@
    "feature_story": {
       "theme": "Queen Tellers and Sistas Poweress"
    },
-   "guests": ["Haylee Venus","Sheba Montserrat","Sandra Agard","Rare Diamond"],
+   "guests": ["Haylee Venus","Sheba Montserrat","Sandra A. Agard","Rare Diamond"],
    "notes": ""
  },
  {
@@ -353,7 +353,7 @@
  },
  {
    "month": "June",
-   "special_status": true,
+   "special_status": false,
    "event_date": "25/06/2021",
    "lead_performer": "Eli Anderson",
    "feature_story": {
@@ -361,6 +361,17 @@
    },
    "guests": ["Sola Story","Poppy Seed","Sista J Africa","Ka'bu Maat Kheru","Ronke, the Poet"],
    "notes": ""
+ },
+ {
+   "month": "July",
+   "special_status": false,
+   "event_date": "31/07/2021",
+   "lead_performer": "TBA",
+   "feature_story": {
+      "theme": "TBA"
+   },
+   "guests": ["TBA"],
+   "notes": "Rebirth of the Griot 3rd Anniversary Event"
  }
 ]
 
@@ -368,6 +379,8 @@ const rbg_master = [
     {
         "first_name": "Sola ",
         "last_name": "Story",
+        "main_role": "Storyteller",
+        "range": ["Writer", "Facilitator"],
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
         "Email": "sola@rebirthofthegriot.com",
         "Mobile": "+1 (876) 381-0911",
@@ -394,6 +407,8 @@ const rbg_master = [
     {
         "first_name": "One Tawny ",
         "last_name": "Stranger",
+        "main_role": "Spoken Word Artist",
+        "range": ["Poet", "Actor", "Writer"],
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
         "Email": "1tawnystranger@hotmail.co.uk",
         "Mobile": "+44 7835 856643",
@@ -420,6 +435,8 @@ const rbg_master = [
     {
         "first_name": "Edward, ",
         "last_name": "the Poet",
+        "main_role": "Poet",
+        "range": ["Spoken Word Artist"],
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
         "Email": "PoetryDifferences@gmail.com",
         "Mobile": "+44 7835 856643",
@@ -446,6 +463,8 @@ const rbg_master = [
     {
         "first_name": "Griot ",
         "last_name": "Chinyere",
+        "main_role": "Storyteller",
+        "range": ["Healer", "Trainer", "Writer"],
         "image_ref": "../../../etc/assets/c0v-members/chinyere_head_05.jpg",
         "Email": "info@shanti-chi.com",
         "Mobile": "07582 228967",
@@ -473,6 +492,8 @@ const rbg_master = [
         "first_name": "Alim ",
         "last_name": "Kamara",
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
+        "main_role": "Storyteller",
+        "range": ["Musician", "Spoken Word Artist", "Hip-Hop Artist"],
         "Email": "info@storiestorie.com",
         "Mobile": "07595 303497",
         "brief_intro": "Storyteller and hip hop artist and ",
@@ -498,6 +519,8 @@ const rbg_master = [
     {
         "first_name": "Usifu ",
         "last_name": "Jalloh",
+        "main_role": "Storyteller",
+        "range": ["Musician", "Educator"],
         "image_ref": "../../../etc/rbg/rebirth-of-the-griot/rbg-content/img/i-GLZWNrK-4K.jpg",
         "Email": "usifujalloh@gmail.com",
         "Mobile": "07862 284462",
@@ -522,8 +545,10 @@ const rbg_master = [
         ]
     },
     {
-        "first_name": "Sandra",
+        "first_name": "Sandra A. ",
         "last_name": "Agard",
+        "main_role": "Storyteller",
+        "range": ["Poet", "Educator", "Writer"],
         "Email": "saagard1611@gmail.com",
         "Mobile": "07539 024320",
         " Brief Intro": "August featured storyteller, making return performance.",
@@ -548,6 +573,8 @@ const rbg_master = [
     {
         "first_name": "Diana",
         "last_name": "Phillips",
+        "main_role": "Spoken Word Artist",
+        "range": ["Storyteller", "Educator", "Writer"],
         "Email": "d.phillips89@btinternet.com",
         "Mobile": "07904 619691",
         "brief_intro": "Last appearance was at the July Anniversary event",
@@ -598,6 +625,8 @@ const rbg_master = [
     {
         "first_name": "Baden ",
         "last_name": "Prince",
+        "main_role": "Storyteller",
+        "range": ["Poet", "Writer"],
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
         "Email": "badenprincejnr@hotmail.co.uk",
         "Mobile": "+44 7946 776952",
@@ -622,8 +651,38 @@ const rbg_master = [
         ]
     },
     {
+        "first_name": "Eli ",
+        "last_name": "Anderson",
+        "main_role": "Storyteller",
+        "range": ["Writer"],
+        "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
+        "Email": "badenprincejnr@hotmail.co.uk",
+        "Mobile": "+44 7956 127226",
+        "brief_intro": "Storyteller and multi musician",
+        "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
+        "Gender": "M",
+        "Website": "www.usifujalloh.com",
+        "current_year": null,
+        "previous_year": [
+            {
+                "year": "2020",
+                "appearances": ["November"]
+            },
+            {
+                "year": "2019",
+                "appearances": null
+            },
+            {
+                "year": "2018",
+                "appearances": null
+            }
+        ]
+    },
+    {
         "first_name": "Ngoma",
         "last_name": "Bishop",
+        "main_role": "Poet",
+        "range": ["Writer"],
         "image_ref": "../../../../etc/rbg/rebirth-of-the-griot/rbg-content/img/i-GLZWNrK-4K.jpg",
         "Email": "usifujalloh@gmail.com",
         "Mobile": "07905 708777",
@@ -650,6 +709,8 @@ const rbg_master = [
     {
         "first_name": "Jah ",
         "last_name": "Messam",
+        "main_role": "Poet",
+        "range": ["Writer"],
         "Email": "jamesmessam@hotmail.com",
         "Mobile": "07950 526025",
         "brief_intro": "Inaugural 'Rebirth' appearance.",
@@ -675,6 +736,8 @@ const rbg_master = [
     {
         "first_name": "Baba-",
         "last_name": "C",
+        "main_role": "Storyteller",
+        "range": ["Poet", "M.C."],
         "image_ref": "../../../etc/assets/c0v-members/baba-c_IMG_1762.jpg",
         "Email": "kabboferdinand@gmail.com",
         "Mobile": "+44 7582 431816 ",
@@ -701,6 +764,8 @@ const rbg_master = [
     {
         "first_name": "Tafari",
         "last_name": "",
+        "main_role": "Spoken Word Artist",
+        "range": ["Poet"],
         "Email": "",
         "Mobile": "07400 698567",
         "brief_intro": "First appearance since his last in May 2019",
@@ -726,6 +791,8 @@ const rbg_master = [
     {
         "first_name": "Haylee",
         "last_name": "Venus",
+        "main_role": "Spoken Word Artist",
+        "range": ["Poet", "Vocalist"],
         "Email": "PrincessLatifahOfficial@outlook.com",
         "Mobile": "07539 002999",
         "Mobile": "07535 923074",
@@ -751,6 +818,8 @@ const rbg_master = [
     {
         "first_name": "Princess",
         "last_name": "Latifah",
+        "main_role": "Spoken Word Artist",
+        "range": [],
         "Email": "PrincessLatifahOfficial@outlook.com",
         "Mobile": "07539 002999",
         "Comments": "Two-time performer. Last appearance was at Anniversary event. Consult over next appearance.",

@@ -23,6 +23,7 @@ ready(() => {
     yearVal = triggers[l].querySelector('p').textContent;
     years_every[l] = yearVal;
   }
+  
   window.addEventListener("scroll", function () {
     var position = window.scrollY || document.documentElement.scrollTop;
     
