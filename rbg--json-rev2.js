@@ -700,7 +700,22 @@ const perfdata = [
        "guests": ["Haylee Venus", "Akadi Sankofa", "Sheba Montserrat", "Yvonne Roberts", "Nicole Moor", "Jali Bakari Konteh"]
     },
     "notes": "Taking place in the Gallery."
+    },
+    {
+    "month": "November",
+    "date": "25/11/2022",
+    "special_status": false,
+    "event": {
+       "headline": "Sandra A. Agard",
+       "theme": {
+            "title": "Ubuntu & Sankofa",
+            "feature_story": ""
+       },
+       "guests": ["Introverted Decisions", "Akadi Sankofa", "Oshon Li", "Sola Story"]
+    },
+    "notes": "Lady Esi did not host this event"
     }
+ 
 ];
 
 const rbg_master = [
