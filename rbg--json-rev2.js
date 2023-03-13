@@ -714,8 +714,49 @@ const perfdata = [
        "guests": ["Introverted Decisions", "Akadi Sankofa", "Oshon Li", "Sola Story"]
     },
     "notes": "Lady Esi did not host this event"
+    },
+    {
+    "month": "December",
+    "date": "31/12/2022",
+    "special_status": true,
+    "event": {
+       "headline": "",
+       "theme": {
+            "title": "Purpose (Nia)",
+            "feature_story": ""
+       },
+       "guests": ["Cuban Redd", "Jah Messam", "Chinedu", "Kandake Makonnen", "D_Oxymoron", "Ama Adu D"]
+    },
+    "notes": "Lady Esi did not host this event"
+    },
+    {
+    "month": "January",
+    "date": "27/01/2023",
+    "special_status": true,
+    "event": {
+       "headline": "Sheba Montserrat",
+       "theme": {
+            "title": "Regeneration",
+            "feature_story": ""
+       },
+       "guests": ["Diamond Bevell", "Sista J. Afrika", "Queen Ymao", "Lady Esi"]
+    },
+    "notes": "Tamara Gabriel appears in February event; Rare Diamond unable to appear."
+    },
+    {
+    "month": "February",
+    "date": "24/02/2023",
+    "special_status": true,
+    "event": {
+       "headline": "Ngoma Bishop",
+       "theme": {
+            "title": "Self-Love",
+            "feature_story": ""
+       },
+       "guests": ["Tamara Gabriel", "Shermya", "Yemisi", "Dominic Phillips", "Yvonne Roberts"]
+    },
+    "notes": "Hosted by the delectable Kandake Makonnen."
     }
- 
 ];
 
 const rbg_master = [
