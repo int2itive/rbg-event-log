@@ -746,7 +746,7 @@ const perfdata = [
     {
     "month": "February",
     "date": "24/02/2023",
-    "special_status": true,
+    "special_status": false,
     "event": {
        "headline": "Ngoma Bishop",
        "theme": {
@@ -756,7 +756,21 @@ const perfdata = [
        "guests": ["Tamara Gabriel", "Shermya", "Yemisi", "Dominic Phillips", "Yvonne Roberts"]
     },
     "notes": "Hosted by the delectable Kandake Makonnen."
-    }
+    },
+    {
+        "month": "March",
+        "date": "31/03/2023",
+        "special_status": true,
+        "event": {
+           "headline": "Griot Chinyere",
+           "theme": {
+                "title": "Wombman Rising",
+                "feature_story": ""
+           },
+           "guests": ["Sheda of Holda Poetry", "Shevelle Serita", "Miss B Ryan", "Sista J. Afrika"]
+        },
+        "notes": "Haylee Venus & Introverted Decisions were unable to appear."
+    }    
 ];
 
 const rbg_master = [
