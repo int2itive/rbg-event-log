@@ -767,10 +767,53 @@ const perfdata = [
                 "title": "Wombman Rising",
                 "feature_story": ""
            },
-           "guests": ["Sheda of Holda Poetry", "Shevelle Serita", "Miss B Ryan", "Sista J. Afrika"]
+           "guests": ["Sheda of Holda Poetry", "Shevelle Serita", "Charlynne Bryan", "Sista J. Afrika"]
         },
         "notes": "Haylee Venus & Introverted Decisions were unable to appear."
+    },
+    {
+        "month": "April",
+        "date": "28/04/2023",
+        "special_status": false,
+        "event": {
+           "headline": "Sola Story",
+           "theme": {
+                "title": "The Gift of Melanin",
+                "feature_story": ""
+           },
+           "guests": ["Introverted Decisions", "Chinedu", "Tafari", "Sacha", "Lady Esi"]
+        },
+        "notes": ""
+    },    
+    {
+        "month": "May",
+        "date": "26/05/2023",
+        "special_status": false,
+        "event": {
+           "headline": "Kandake Makonnen",
+           "theme": {
+                "title": "The Gift of Melanin",
+                "feature_story": ""
+           },
+           "guests": ["Angela Hinds", "Charlynne Bryan", "Dominic Phillips", "Oma'-Ra"]
+        },
+        "notes": ""
+    },    
+    {
+        "month": "June",
+        "date": "30/06/2023",
+        "special_status": false,
+        "event": {
+           "headline": "Sista J. Afrika",
+           "theme": {
+                "title": "Honouring Windrush",
+                "feature_story": ""
+           },
+           "guests": ["Evelyn Chronicle", "Jah Messam", "Shermya", "Lady Esi"]
+        },
+        "notes": "Sacha failed to appear."
     }    
+
 ];
 
 const rbg_master = [
