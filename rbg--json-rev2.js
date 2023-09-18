@@ -812,8 +812,21 @@ const perfdata = [
            "guests": ["Evelyn Chronicle", "Jah Messam", "Shermya", "Lady Esi"]
         },
         "notes": "Sacha failed to appear."
-    }    
-
+    },
+    {
+        "month": "September",
+        "date": "29/09/2023",
+        "special_status": true,
+        "event": {
+           "headline": "Adisa the Verbalizer",
+           "theme": {
+                "title": "Afrika Rising",
+                "feature_story": ""
+           },
+           "guests": ["Introverted Decisions", "Akuba Grace Quansah", "Ama Adu D", "Itricia, the Xpressioness", "Janine Edwards", "Sista J. Afrika", "Centelia"]
+        },
+        "notes": "This event had been postponsed from it's intended July date."
+    }   
 ];
 
 const rbg_master = [
