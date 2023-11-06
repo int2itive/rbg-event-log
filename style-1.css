@@ -96,7 +96,7 @@ header {
 
 .page-header {
   background-color: #00020e;
-  background-color: rgba(0, 2, 14, .95);
+  background-color: hsla(231, 100%, 3%, .9);
   border-bottom: 2px solid #b9661f;
   -webkit-transition: -webkit-transform 500ms ease-out;
   /* transition: -webkit-transform 500ms ease-out; */
