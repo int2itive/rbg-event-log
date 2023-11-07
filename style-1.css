@@ -579,11 +579,11 @@ header {
 }
 
 .rbg-event-details .rbg-month-detail:last-of-type {
-  background:#1c1d24 url('../../../etc/assets/c0v-members/tumblr_195698382fa906229ede8cec533791a4_7677d440_1280.jpg') center -280px / cover no-repeat
+  background:#1c1d24 url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/tumblr_195698382fa906229ede8cec533791a4_7677d440_1280_LtiGFmkxk.jpg') center -280px / cover no-repeat
 }
 
 .rbg-datestring {
-  font-family: 'BebasNeue';
+  font-family: 'Bebas Neue';
   font-size: 1.6em;
   font-weight: 700;
   color: #b9661f;
