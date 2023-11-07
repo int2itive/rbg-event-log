@@ -566,6 +566,7 @@ header {
 .rbg-month-detail {
   position: relative;
   background-color: #1c1d24;
+  background-color: #c0c0c0;
   padding-inline: 16px;
   padding-block: 12px;
   margin-top: 2rem;
