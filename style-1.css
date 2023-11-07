@@ -1,7 +1,10 @@
-@font-face { 
-  font-family: 'raleway';
-  src: url('../../../etc/assets/ff/raleway/Raleway-Regular.ttf');
-}
+@import url('https://api.fonts.coollabs.io/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://api.fonts.coollabs.io/css2?family=Bungee&display=swap');
+
+@import url('https://api.fonts.coollabs.io/css2?family=Roboto+Condensed&display=swap');
+
+@import url('https://api.fonts.coollabs.io/css2?family=Raleway&display=swap');
 
 @font-face { 
   font-family: 'Open Sans';
