@@ -641,7 +641,7 @@ const perfdata = [
             "title": "OURStory Not HIStory",
             "feature_story": ""
        },
-       "guests": ["Sista J. Africa", "Introverted Decisions", "Oma'-Ra", "Sola Story"]
+       "guests": ["Sista J. Africa", "Introverted Decisions", "Oma'-Ra", "Ngoma Bishop"]
     },
     "notes": "Taking place in the Gallery."
     },
