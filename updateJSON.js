@@ -306,7 +306,7 @@ for (let key of Object.keys(qualifiers)) {
     var evyear = rbgMember.date.substr(6);
 
     const guest_app = rbgMember["event"].guests;
-    if (rbgMember.date.substr(6) === "2022") {
+    if (rbgMember.date.substr(6) === "2023") {
       //console.log(guest_app.length);
       //const {first_name, last_name} = rbg_master[0];
       //console.log(first_name+last_name);
