@@ -697,7 +697,7 @@ const perfdata = [
             "title": "The Evolution of Afrikan Consciousness",
             "feature_story": ""
        },
-       "guests": ["Haylee Venus", "Akadi Sankofa", "Sheba Montserrat", "Yvonne Roberts", "Nicole Moor", "Jali Bakari Konteh"]
+       "guests": ["Evelyn Chronicle", "Chinedu", "sista J. Afrika", "Yvonne Roberts", "Jali Bakari Konteh"]
     },
     "notes": "Taking place in the Gallery."
     },
