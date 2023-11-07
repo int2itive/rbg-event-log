@@ -567,6 +567,7 @@ header {
 }
 
 .rbg-month-detail {
+  display: none;
   position: relative;
   background-color: #1c1d24;
   background-color: #c0c0c0;
