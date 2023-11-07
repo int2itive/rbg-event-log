@@ -826,7 +826,21 @@ const perfdata = [
            "guests": ["Introverted Decisions", "Akuba Grace Quansah", "Ama Adu D", "Itricia, the Xpressioness", "Janine Edwards", "Sista J. Afrika", "Centelia"]
         },
         "notes": "This event had been postponsed from it's intended July date."
-    }   
+    },
+    {
+        "month": "October",
+        "date": "27/10/2023",
+        "special_status": true,
+        "event": {
+           "headline": "Kandake Makonnen",
+           "theme": {
+                "title": "Saluting Our Sisters",
+                "feature_story": ""
+           },
+           "guests": ["Sassy Cokes", "Charlynne", "Ms BitterSweet", "Sandra A. Agard", "Rare Diamond"]
+        },
+        "notes": "This event had been postponsed from it's intended July date."
+    }    
 ];
 
 const rbg_master = [
