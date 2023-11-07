@@ -5,6 +5,7 @@
 @import url('https://api.fonts.coollabs.io/css2?family=Roboto+Condensed&display=swap');
 
 @import url('https://api.fonts.coollabs.io/css2?family=Raleway&display=swap');
+
 /* 
 @font-face { 
   font-family: 'Open Sans';
@@ -159,8 +160,8 @@ header {
   color: #fff;
   padding: 0 60px;
   background-color: linear-gradient(to right, #530638, #4001a6);
-/*   background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/hatim-belyamani-RGi5-GDdhbh-M-c01_jQLjpLjZ7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665403004510'); */
-  background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/paul-zoetemeijer-ek-BOf6s-JYYo-unsplash_1__FMvHm504j.jpg');	
+   background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/hatim-belyamani-RGi5-GDdhbh-M-c01_jQLjpLjZ7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665403004510'); 
+  /*background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/paul-zoetemeijer-ek-BOf6s-JYYo-unsplash_1__FMvHm504j.jpg');	*/
   background-position: center 45%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -403,17 +404,15 @@ header {
 .active p {
   padding: 15px 19px;
   color: #2C3E50;
-  color: #19916b;
+  color: #fd9402;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   padding-bottom: 12px;
-  border-bottom: 1px solid #19916b;
+  border-bottom: 1px solid #fd9402;
 }
 
 .content {
-  display: none;
   padding: 20px 16px 0;
-/*   padding: 5px 10px 20px; */
   background: #fff;
   margin: auto;
   background: #202931;
@@ -425,8 +424,8 @@ header {
 }
 
 .content h2 {
-  font-family: 'Candara', sans-serif;
-  font-size: 28px;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
   background: #14161b;
   color: #c0c0c0;
   color: #b9661f;
@@ -434,13 +433,21 @@ header {
   /*padding: 0 18px;*/
   margin-block: .7em;
   line-height: 1.4;
+  letter-spacing: 0.045em
 }
 
 .content p {
   font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto Condensed';
   color: #2C3E50;
   color: #c0c0c0;
 }
+
+.content p:nth-of-type(3) {
+  /*color: firebrick;*/
+  margin-bottom: 1.5rem;
+}
+
 
 .txt--reduced {
   position: relative;
@@ -456,6 +463,7 @@ header {
   border-radius: 5px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3)
 }
+/*
 
 .txt--reduced > * {
   position: relative;
@@ -501,17 +509,21 @@ header {
   width: 100%;
   background: rgba(0 0 0 / .5);
 }
+*/
 
-.rbg-event-details {
-  font-family: 'Segoe UI';
+
+.content .rbg-event-details {
+  /*font-family: 'Roboto Condensed', sans-serif;*/
   color: #c0c0c0;
+  display: none;
 }
 
-.rbg-event-details h4 {
+.content .rbg-event-details > h4 {
 /*   font-family: 'raleway'; */
-  font-family: 'BebasNeue';
+  font-family: 'Bebas Neue';
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 1.65em;
-  color: #19916b;
+  color: #c0c0c0;
   text-transform: uppercase;
   margin-bottom: .3em;
 }
@@ -557,12 +569,14 @@ header {
 }
 
 .rbg-month-detail {
-  display: none;
   position: relative;
   background-color: #1c1d24;
   background-color: #c0c0c0;
+  /*
   padding-inline: 16px;
   padding-block: 12px;
+  */
+  padding: 12px 16px;
   margin-top: 2rem;
   margin-bottom: 2rem;
   border-radius: 5px;
@@ -570,7 +584,7 @@ header {
 }
 
 .rbg-event-details .rbg-month-detail:last-of-type {
-  background:#1c1d24 url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/tumblr_195698382fa906229ede8cec533791a4_7677d440_1280_LtiGFmkxk.jpg') center -280px / cover no-repeat
+  background:#1c1d24 url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/tumblr_195698382fa906229ede8cec533791a4_7677d440_1280_LtiGFmkxk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665404097871') center -280px / cover no-repeat
 }
 
 .rbg-datestring {
@@ -707,4 +721,3 @@ img {
 	width: auto;
 	display: inline-block;
 }
-
