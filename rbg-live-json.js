@@ -739,7 +739,7 @@ const perfdata = [
             "title": "Regeneration",
             "feature_story": ""
        },
-       "guests": ["Diamond Bevell", "Sista J. Afrika", "Queen Ymao", "Lady Esi"]
+       "guests": ["Diamond Bevell", "Sista J. Afrika", "Queen Yamo", "Lady Esi"]
     },
     "notes": "Tamara Gabriel appears in February event; Rare Diamond unable to appear."
     },
