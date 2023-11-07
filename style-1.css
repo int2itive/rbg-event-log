@@ -5,7 +5,7 @@
 @import url('https://api.fonts.coollabs.io/css2?family=Roboto+Condensed&display=swap');
 
 @import url('https://api.fonts.coollabs.io/css2?family=Raleway&display=swap');
-
+/* 
 @font-face { 
   font-family: 'Open Sans';
   src: url('../../../etc/assets/ff/open-sans/OpenSans-Regular.ttf');
@@ -16,19 +16,9 @@
   src: url('../../../etc/assets/ff/segoe-ui/Segoe UI.ttf');
 }
 
-/* @font-face {
-  font-family: 'Ubuntu';
-  src: url('../../../etc/assets/ff/ubuntu-font-family/Ubuntu-L.ttf');
-}
- */
 @font-face {
   font-family: 'Candara';
   src: url('../../../etc/assets/ff/Candara/Candara Font.ttf');
-}
-
-@font-face {
-  font-family: 'BebasNeue';
-  src: url('../../../etc/assets/ff/bebas-neue/BebasNeue.otf');  
 }
 
 @font-face {
@@ -40,7 +30,7 @@
   font-family: 'unicons';    
   src: url('../../../etc/assets/ff/unicons/font/unicons.ttf');
 }
-
+ */
 :root {
   --colorPrimaryDark: #0b132b;
   --colorPrimaryLight: #494f61;
@@ -68,7 +58,6 @@ body {
 
 header {
   width: 100%;
-
 }
 
 .rbg-header {
@@ -170,7 +159,8 @@ header {
   color: #fff;
   padding: 0 60px;
   background-color: linear-gradient(to right, #530638, #4001a6);
-  background-image:  url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/hatim-belyamani-RGi5-GDdhbh-M-c01_jQLjpLjZ7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665403004510');
+/*   background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/hatim-belyamani-RGi5-GDdhbh-M-c01_jQLjpLjZ7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1665403004510'); */
+  background-image: url('https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/c0v-members/paul-zoetemeijer-ek-BOf6s-JYYo-unsplash_1__FMvHm504j.jpg');	
   background-position: center 45%;
   background-size: cover;
   background-repeat: no-repeat;
