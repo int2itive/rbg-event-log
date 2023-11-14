@@ -14,7 +14,7 @@ ready(() => {
       
   const lookupName = "Sheda of Holda Poetry";
   const mayRoster = ["Alim Kamara", "Yvonne Roberts", "Sheba Montserrat", "Akadi Sankofa", "Lady Esi", "Sola Story"];
-  var hiddenState = "-hidden", nav_dark = "page-header";
+  let hiddenState = "-hidden", nav_dark = "page-header";
   let ttlapps = 0;
   let apps = [],fullNameList = [], years_every = [];
   var incr = [];
