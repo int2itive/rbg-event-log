@@ -818,7 +818,7 @@ const perfdata = [
         "date": "29/09/2023",
         "special_status": true,
         "event": {
-           "headline": "Adisa the Verbalizer",
+           "headline": "Did Not Appear",
            "theme": {
                 "title": "Afrika Rising",
                 "feature_story": ""
@@ -839,8 +839,22 @@ const perfdata = [
            },
            "guests": ["Sassy Cokes", "Charlynne", "Ms BitterSweet", "Sandra A. Agard", "Rare Diamond"]
         },
-        "notes": "This event had been postponsed from it's intended July date."
-    }    
+        "notes": "Annual Black History Month Event."
+    }
+    // {
+    //     "month": "November",
+    //     "date": "25/11/2023",
+    //     "special_status": false,
+    //     "event": {
+    //        "headline": "Adisa the Verbalizer",
+    //        "theme": {
+    //             "title": "Growing In Our Strength",
+    //             "feature_story": ""
+    //        },
+    //        "guests": ["Rare Diamond", "James Bee", "Knadake Makonnen", "Jammers"]
+    //     },
+    //     "notes": "This event had been postponsed from it's intended July date."
+    // }    
 ];
 
 const rbg_master = [
