@@ -837,24 +837,38 @@ const perfdata = [
                 "title": "Saluting Our Sisters",
                 "feature_story": ""
            },
-           "guests": ["Sassy Cokes", "Charlynne", "Ms BitterSweet", "Sandra A. Agard", "Rare Diamond"]
+           "guests": ["Sassy Cokes", "Charlynne Bryan", "Ms BitterSweet", "Sandra A. Agard", "Rare Diamond"]
         },
         "notes": "Annual Black History Month Event."
     }
-    // {
-    //     "month": "November",
-    //     "date": "25/11/2023",
-    //     "special_status": false,
-    //     "event": {
-    //        "headline": "Adisa the Verbalizer",
-    //        "theme": {
-    //             "title": "Growing In Our Strength",
-    //             "feature_story": ""
-    //        },
-    //        "guests": ["Rare Diamond", "James Bee", "Knadake Makonnen", "Jammers"]
-    //     },
-    //     "notes": "This event had been postponsed from it's intended July date."
-    // }    
+    {
+        "month": "November",
+        "date": "25/11/2023",
+        "special_status": false,
+        "event": {
+           "headline": "Adisa the Verbalizer",
+           "theme": {
+                "title": "Growing In Our Strength",
+                "feature_story": ""
+           },
+           "guests": ["Rare Diamond", "James Bee", "Kandake Makonnen", "Sista J. Afrika", "Jammers"]
+        },
+        "notes": ""
+    },
+    {
+        "month": "December",
+        "date": "29/12/2023",
+        "special_status": true,
+        "event": {
+           "headline": "Griot Chinyere",
+           "theme": {
+                "title": "Kwanzaa: Ujamaa",
+                "feature_story": ""
+           },
+           "guests": ["Oma'-Ra", "Diana Phillips", "Taurean Garrick", "Belinda Everiste", "Rare Diamond"]
+        },
+        "notes": ""
+    }
 ];
 
 const rbg_master = [
