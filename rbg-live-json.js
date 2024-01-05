@@ -865,7 +865,7 @@ const perfdata = [
                 "title": "Kwanzaa: Ujamaa",
                 "feature_story": ""
            },
-           "guests": ["Oma'-Ra", "Diana Phillips", "Taurean Garrick", "Belinda Everiste", "Rare Diamond"]
+           "guests": ["Oma'-Ra", "Diana Phillips", "Taurean Garrick", "Belinda Everiste", "Dominic Phillips"]
         },
         "notes": ""
     }
